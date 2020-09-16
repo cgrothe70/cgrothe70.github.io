@@ -166,7 +166,7 @@ a {
     display: block; }
     .site-hero h1 strong {
       font-weight: 800; }
-    @media (min-width: 1200px) {
+    @media (min-width: 768px) {
       .site-hero h1 {
         font-size: 70px; } }
   .site-hero h1, .site-hero .lead {
