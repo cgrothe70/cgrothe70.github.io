@@ -146,7 +146,7 @@ a {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  position: relative;
+  position: absolute;
   overflow: hidden; }
   .site-hero, .site-hero .row {
     height: 100vh;
